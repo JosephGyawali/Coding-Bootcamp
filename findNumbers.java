@@ -1,4 +1,10 @@
 package Problem;
+/*
+ * Description: Given an array of integers, nums, return how many of them contain an even number of digits
+ * Note: 1<=nums[i]<=10000
+ * Example: Given nums = [12,345,2,6,7896]	Because 12 and 7896 contain an even number of digits-- return 2.
+ */
+
 
 public class findNumbers {
 	public static int findNumber(int[] nums) {
