@@ -3,7 +3,7 @@
 /*
  * LeetCode 1431: Kids With the Greatest Number of Candies
  * 
- * Time Complexity: O(n^2) iterated twice one to get max and one to input list elements
+ * Time Complexity: O(n) two passes are needed
  * Space Complexity: O(n) arraylist
  * 
  * https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
